@@ -1,0 +1,27 @@
+{
+  "name": "hapi-upload",
+  "version": "1.0.0",
+  "description": "Effortlessly upload any file to a Hapi.js based app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/hapi-upload.git"
+  },
+  "keywords": [
+    "upload",
+    "file",
+    "photos",
+    "images",
+    "video",
+    "documents"
+  ],
+  "author": "nelsonic <nodecoder@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/hapi-upload/issues"
+  },
+  "homepage": "https://github.com/nelsonic/hapi-upload"
+}
